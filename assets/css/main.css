@@ -3398,6 +3398,7 @@ input, select, textarea {
 		}
 
 		.panel.spotlight .content {
+			background-color: rgba(52, 50, 51, 0.5);
 			display: -moz-flex;
 			display: -webkit-flex;
 			display: -ms-flex;

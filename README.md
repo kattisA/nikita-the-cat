@@ -1,10 +1,10 @@
 # Nikita the cat fan page
 
-Simple overview of use/purpose.
+Every cat should have their own fan page. This is for Nikita!
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+The purpose is to share some facts and highlights about Nikita, the cat. 
 
 ## Getting Started
 
